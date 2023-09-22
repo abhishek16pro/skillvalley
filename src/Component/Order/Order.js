@@ -101,6 +101,7 @@ const Order = () => {
                     </button>
                 </div>
             </div>
+            <h1>New</h1>
         </>
     )
 }
